@@ -271,7 +271,7 @@
 		\quickwordcount{Template}
 		Word Count: \thewordcounter~words $+$ \total{table} table(s) $\times$ \@WordsPerTable\ $=$ \totalwordcount~words\\
 		
-		\figurecountwarning
+		%%%\figurecountwarning
 
 		\hfill\break%
 		Submission Date: \today
